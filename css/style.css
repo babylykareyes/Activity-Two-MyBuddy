@@ -1,0 +1,588 @@
+*{
+    padding: 0;
+    margin:0;
+}
+.nav-container{
+    text-align: center;
+    font-size: 30px;
+    color: blueviolet;
+    background-color: rgb(248, 224, 193);
+    padding: 10px;
+}
+.navbar-brand{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.navbar-brand:hover{
+    font-size: 30px;
+    color: rgb(230, 57, 14);
+}
+.title-container{
+    padding-top: 80px;
+text-align: center;
+background-image: repeating-linear-gradient(180deg, rgb(15, 124, 73),rgb(191, 247, 247), rgb(250, 154, 11),black);
+}
+.title{
+    padding-top:60px;
+    padding-bottom:15px;
+    text-align: center;
+    font-family: Shelldon;
+    font-size: 160px;
+    font-weight: bolder;
+    color: black;
+}
+.title-anader{
+    margin-top: 70px;
+    margin-bottom: 120px;
+    padding-top:50px;
+    padding-bottom:15px;
+    text-align: center;
+    font-family: Shelldon;
+    font-size: 150px;
+    font-weight: bolder;
+    color: black;
+}
+.Qoutation{
+
+    padding-top: 10px;;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    padding-bottom: 10px;
+    border: black solid 2px;
+    border-color: rgb(15, 124, 73);
+    background-color: rgb(15, 124, 73);
+}
+.Click{
+    color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 80px;
+    width: 120px;
+    font-size: 20px;
+    background-color: teal;
+    border-radius: 20px;
+    border: 2px solid rgb(47, 88, 5);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.logo{
+    height: 40rem;
+    width: 40rem;
+}
+
+@font-face{
+    src: url(../fonts/Shelldon.ttf);
+    font-family: "Shelldon";
+
+}
+@font-face{
+    src: url(../fonts/AdreenaScript-Demo.ttf);
+    font-family: "Adreena";
+
+}
+@font-face{
+    src: url(../fonts/Montserrat-Black.ttf);
+    font-family: "Montserrat";
+
+}
+
+.juan-ader-container{
+    padding-bottom:19px;
+    padding-top: 10px;
+    background-image:repeating-linear-gradient(90deg, rgb(51, 154, 238),rgb(70, 241, 190),black);
+}
+.container{
+    color: white;
+    font-size: 20px;
+    text-align: center; 
+    padding: 50px;
+    padding-left: 10px; 
+    padding-bottom: 50px;
+    margin: 20px;
+}
+.image-juan{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+h1 {
+    color: green;
+    font-family: Georgia;
+    font-size: 30px;
+}
+body{
+    text-align: center;
+    line-height: 15px;
+    font-size: 20px;
+}
+.container{
+    color: white;
+    font-size: 20px;
+    text-align: center; 
+    padding: 50px;
+    padding-left: 10px; 
+    padding-bottom: 50px;
+    margin: 20px;
+}
+.image-unwell{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+h1 {
+    color: green;
+    font-family: Georgia;
+    font-size: 30px;
+}
+body{
+    text-align: center;
+    line-height: 15px;
+    font-size: 20px;
+}
+.container{
+    color: white;
+    font-size: 20px;
+    text-align: center; 
+    padding: 50px;
+    padding-left: 10px; 
+    padding-bottom: 50px;
+    margin: 20px;
+}
+.image-bish{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+.container{
+    color: white;
+    font-size: 20px;
+    text-align: center; 
+    padding: 50px;
+    padding-left: 10px; 
+    padding-bottom: 50px;
+    margin: 20px;
+}
+.image-eheads{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+
+.title{
+    padding-top:50px;
+    padding-bottom:15px;
+    text-align: center;
+    font-family: Shelldon;
+    font-size: 170px;
+    font-weight: bolder;
+    color: black;
+}
+.Qoutation{
+    margin-top: 55px;
+    padding-top: 10px;;
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    padding-bottom: 10px;
+    border: black solid 2px;
+    border-color: rgb(15, 124, 73);
+    background-color: rgb(15, 124, 73);
+}
+.Click{
+    color: wheat;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    height: 80px;
+    width: 120px;
+    font-size: 20px;
+    background-color: teal;
+    border-radius: 20px;
+    border: 2px solid rgb(47, 88, 5);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.anader-container{
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+    height: 1000px;
+    background-image: repeating-linear-gradient(90deg, rgb(15, 124, 73),rgb(191, 247, 247), rgb(250, 154, 11),black);
+}
+.the-songs{
+    font-family:Adreena;
+    font-size: 30px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+.one-more-container{
+    margin-right: 20px;
+    float: left;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.juan-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.HTP{
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.click-htp{
+    text-decoration: none;
+    padding: 10px;
+    background-color: turquoise;
+    font-weight: bolder;
+    font-family: geneva;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+}
+.one-unwell-container{
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.unwell-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.unwell{
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.click-unwell{
+    text-decoration: none;
+    padding: 10px;
+    background-color: turquoise;
+    font-weight: bolder;
+    font-family: geneva;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+}
+.one-bish-container{
+    margin-left: 20px;
+    margin-right: 10px;
+    float: left;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.bish-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.IMBY{
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.click-imby{
+        text-decoration: none;
+        padding: 10px;
+        background-color: turquoise;
+        font-weight: bolder;
+        font-family: geneva;
+        font-size: 20px;
+        padding-right: 20px;
+        padding-left: 20px;   
+}
+.one-eheads-container{
+    margin-left: 10px;
+    margin-right: 35px;
+    float: right;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.eheads-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.WTS{
+
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.click-wts{
+    text-decoration: none;
+    padding: 10px;
+    background-color: turquoise;
+    font-weight: bolder;
+    font-family: geneva;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+}
+.one-creep-container{
+    position: relative;
+    margin-top: 60px;
+    margin-right: 35px;
+    float: left;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.creep-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.Creep{
+
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.click-creep{
+    text-decoration: none;
+    padding: 10px;
+    background-color: turquoise;
+    font-weight: bolder;
+    font-family: geneva;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+}
+.one-iris-container{
+    position: relative;
+    margin-top: 60px;
+    margin-right: 35px;
+    float: left;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.iris-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.iris{
+
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.click-iris{
+    text-decoration: none;
+    padding: 10px;
+    background-color: turquoise;
+    font-weight: bolder;
+    font-family: geneva;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+}
+.one-monster-container{
+    position: relative;
+    margin-top: 60px;
+    margin-right: 35px;
+    float: left;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.monster-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.monster{
+
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.click-monster{
+    text-decoration: none;
+    padding: 10px;
+    background-color: turquoise;
+    font-weight: bolder;
+    font-family: geneva;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+}
+.one-memories-container{
+    position: relative;
+    margin-top: 60px;
+    margin-right: 35px;
+    float: left;
+    padding: 20px;
+    background-image:repeating-linear-gradient(180deg, rgb(168, 164, 164),darkgrey,black);
+    height: 350px;
+    width: 250px;
+    border-radius: 20px;
+    padding-bottom: 40px;
+}
+.memories-image{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.memories{
+
+    color: wheat;
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.click-memories{
+    text-decoration: none;
+    padding: 10px;
+    background-color: turquoise;
+    font-weight: bolder;
+    font-family: geneva;
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 20px;   
+}
+.container{
+    color: white;
+    font-size: 20px;
+    text-align: center; 
+    padding: 50px;
+    padding-left: 10px; 
+    padding-bottom: 50px;
+}
+.image-memories{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+h1 {
+    color: green;
+    margin-bottom: 20px;
+}
+body{
+    text-align: center;
+}
+.image-monster{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+.image-iris{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+.image-creep{
+    margin-left: 50px;
+    height: 400px;
+    width:350px;
+    position: relative;
+    border: 2px solid black;
+}
+.about-container{
+    margin-left: 300px;
+    margin-bottom:30px;
+    margin-top: 70px;
+    border: 5px solid khaki;
+    padding: 50px;
+    height: 300px;
+    width:700px;
+}
+.about-title{
+    margin-bottom: 70px;
+    padding: 20px;
+    font-family:Adreena;
+    font-size: 80px;
+    color: olivedrab;
+}
+.about-content{
+    text-align: justify;
+    font-family: Montserrat;
+    font-size: 20px;
+    line-height: 30px;
+    color: darkred;
+}
+.contact-title{
+    margin-top: 80px;
+    margin-bottom: 50px;
+    padding: 20px;
+    font-family:Adreena;
+    font-size: 80px;
+    color: goldenrod;
+}
+.contact-container{
+    margin: 100px;
+    border: 5px solid rgb(73, 109, 6);
+    padding: 50px;
+}
+.suggest{
+    font-size: 20px;
+    color: coral;
+}
+.btn-primary{
+    font-size: 20px;
+    padding: 10px;
+}
